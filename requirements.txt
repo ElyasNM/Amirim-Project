@@ -1,0 +1,15 @@
+# CPU analysis scripts were run with: numpy 2.2, pandas 2.2, scipy 1.15, matplotlib 3.10
+numpy
+pandas
+scipy
+matplotlib
+tqdm
+
+# GPU scripts (caching, patching, MLP maps, ablation, numeric evaluation); run with torch 2.8 / transformers 4.55
+torch
+transformers
+accelerate
+
+# numeric QA data building
+datasets
+sentencepiece

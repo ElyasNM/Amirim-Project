@@ -1,0 +1,11 @@
+# Unpacked data (python lib/unpack_data.py) is not tracked; only data/archives/ and data/README.md are
+data/*
+!data/archives/
+!data/README.md
+
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
